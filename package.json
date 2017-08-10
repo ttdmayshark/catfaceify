@@ -1,0 +1,19 @@
+{
+  "name": "woodcutify",
+  "version": "1.0.0",
+  "description": "woodcut block image processor",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ttdmayshark/woodcutify.git"
+  },
+  "author": "tmayshark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttdmayshark/woodcutify/issues"
+  },
+  "homepage": "https://github.com/ttdmayshark/woodcutify#readme"
+}
