@@ -1,7 +1,7 @@
 {
-  "name": "woodcutify",
+  "name": "catfacer",
   "version": "1.0.0",
-  "description": "woodcut block image processor",
+  "description": "kitty face image processor",
   "main": "index.js",
   "scripts": {
     "test": "ava test"
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ttdmayshark/woodcutify/issues"
   },
-  "homepage": "https://github.com/ttdmayshark/woodcutify#readme"
+  "homepage": "https://github.com/ttdmayshark/woodcutify#readme",
+  "dependencies": {
+    "faced": "^1.2.0",
+    "jimp": "^0.2.28"
+  }
 }
