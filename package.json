@@ -1,5 +1,5 @@
 {
-  "name": "catfacer",
+  "name": "catfaceify",
   "version": "1.0.0",
   "description": "kitty face image processor",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ttdmayshark/woodcutify.git"
+    "url": "git+ssh://git@github.com/ttdmayshark/catfaceify.git"
   },
   "author": "tmayshark",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ttdmayshark/woodcutify/issues"
+    "url": "https://github.com/ttdmayshark/catfaceify/issues"
   },
   "homepage": "https://github.com/ttdmayshark/woodcutify#readme",
   "dependencies": {
